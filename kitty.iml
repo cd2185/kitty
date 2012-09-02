@@ -24,7 +24,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="AppEngine API" level="project" />
+    <orderEntry type="library" exported="" name="AppEngine API" level="project" />
   </component>
 </module>
 
